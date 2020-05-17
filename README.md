@@ -1,4 +1,4 @@
 # Personal Expenses Flutter App
  
 
-![Image description](app.png)
+![Image description](app.gif)
